@@ -5,6 +5,4 @@
 #Não quero que envie os seguintes diretórios
 node_modules/
 
-teste.txt
-
 .gitignore
