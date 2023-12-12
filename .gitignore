@@ -6,3 +6,5 @@
 node_modules/
 
 teste.txt
+
+.gitignore
